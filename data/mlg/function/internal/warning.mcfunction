@@ -1,0 +1,1 @@
+tellraw @s { "color": "yellow", "text": "If you are seeing this, you ran a command you shouldn't have. Be wary." }
